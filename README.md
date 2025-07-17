@@ -30,7 +30,7 @@ src/
 
 Após rodar a aplicação localmente, acesse:
 
-**http://localhost:3000/api**
+**http://localhost:3001/api**
 
 # Instalar dependências
 
@@ -43,3 +43,17 @@ yarn start:dev
 # Build da aplicação
 
 yarn build
+
+## 📫 Contato
+
+Desenvolvido por **Pedro Milan**  
+Entre em contato: [pedro.milan9@gmail.com](mailto:pedro.milan9@gmail.com)  
+GitHub: [github.com/PedroMilan](https://github.com/PedroMilan)  
+LinkedIn: [linkedin.com/in/pedromilan](https://www.linkedin.com/in/pedro-henrique-milan-5a9551245/)
+
+---
+
+## 🧾 Licença
+
+Este projeto está licenciado sob a licença **MIT**.  
+Sinta-se livre para usar, modificar e distribuir com os devidos créditos.
